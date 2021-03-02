@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel pour PHP 2 avec pleins de tests avec git
+                    Laravel pour PHP 2 avec pleins de tests avec git sur la branche de dev
                 </div>
 
                 <div class="links">
